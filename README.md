@@ -7,4 +7,4 @@ I want to update repository description in the CI process. For OIDC mode harbor,
 
 ## Todo
 
-[] PUT /repositories/{repo_name}
+- [x] PUT /repositories/{repo_name}
